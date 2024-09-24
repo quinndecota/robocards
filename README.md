@@ -1,3 +1,3 @@
 # robofriends
-Website made with HTML, CSS, Javascript, and React
-Ran with NPM and Nodejs
+Website made with HTML, CSS, Javascript, and React. 
+Powered with NPM and Nodejs
